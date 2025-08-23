@@ -1,6 +1,3 @@
-Here is a suitable README description for your Python calculator code, which you can use or adapt for your GitHub repository:
-
-
 ***
 
 
